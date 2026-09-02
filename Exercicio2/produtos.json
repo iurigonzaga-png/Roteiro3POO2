@@ -1,0 +1,29 @@
+[
+  {
+    "Id": 1,
+    "product_name": "Notebook",
+    "product_price": 4500.0,
+    "Estoque": 10,
+    "Fornecedor": "Alexandre de Moraes Tech"
+  },
+  {
+    "Id": 2,
+    "product_name": "Mouse",
+    "product_price": 150.0,
+    "Estoque": 50,
+    "Fornecedor": "Alexandre de Moraes Tech"
+  },
+  {
+    "Id": 3,
+    "product_name": "Teclado Mecânico",
+    "product_price": 350.0,
+    "Estoque": 25,
+    "Fornecedor": "Alexandre de Moraes Tech"
+  },
+  {
+    "Id": 4,
+    "product_name": "Monitor 144Hz",
+    "product_price": 1200.0,
+    "Estoque": 5
+  }
+]

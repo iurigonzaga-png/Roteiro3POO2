@@ -1,0 +1,14 @@
+C:\Users\alunolab\Desktop\Roteiro 3 POO2\Exercicio2\Exercicio2\bin\Debug\net10.0\Exercicio2.exe
+C:\Users\alunolab\Desktop\Roteiro 3 POO2\Exercicio2\Exercicio2\bin\Debug\net10.0\Exercicio2.deps.json
+C:\Users\alunolab\Desktop\Roteiro 3 POO2\Exercicio2\Exercicio2\bin\Debug\net10.0\Exercicio2.runtimeconfig.json
+C:\Users\alunolab\Desktop\Roteiro 3 POO2\Exercicio2\Exercicio2\bin\Debug\net10.0\Exercicio2.dll
+C:\Users\alunolab\Desktop\Roteiro 3 POO2\Exercicio2\Exercicio2\bin\Debug\net10.0\Exercicio2.pdb
+C:\Users\alunolab\Desktop\Roteiro 3 POO2\Exercicio2\Exercicio2\obj\Debug\net10.0\Exercicio2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\alunolab\Desktop\Roteiro 3 POO2\Exercicio2\Exercicio2\obj\Debug\net10.0\Exercicio2.AssemblyInfoInputs.cache
+C:\Users\alunolab\Desktop\Roteiro 3 POO2\Exercicio2\Exercicio2\obj\Debug\net10.0\Exercicio2.AssemblyInfo.cs
+C:\Users\alunolab\Desktop\Roteiro 3 POO2\Exercicio2\Exercicio2\obj\Debug\net10.0\Exercicio2.csproj.CoreCompileInputs.cache
+C:\Users\alunolab\Desktop\Roteiro 3 POO2\Exercicio2\Exercicio2\obj\Debug\net10.0\Exercicio2.dll
+C:\Users\alunolab\Desktop\Roteiro 3 POO2\Exercicio2\Exercicio2\obj\Debug\net10.0\refint\Exercicio2.dll
+C:\Users\alunolab\Desktop\Roteiro 3 POO2\Exercicio2\Exercicio2\obj\Debug\net10.0\Exercicio2.pdb
+C:\Users\alunolab\Desktop\Roteiro 3 POO2\Exercicio2\Exercicio2\obj\Debug\net10.0\Exercicio2.genruntimeconfig.cache
+C:\Users\alunolab\Desktop\Roteiro 3 POO2\Exercicio2\Exercicio2\obj\Debug\net10.0\ref\Exercicio2.dll
