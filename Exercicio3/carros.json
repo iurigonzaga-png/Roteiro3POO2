@@ -1,0 +1,20 @@
+[
+  {
+    "Marca": "Toyota",
+    "Modelo": "Corolla",
+    "Ano": 2022,
+    "Proprietario": "Alexandre de Moraes"
+  },
+  {
+    "Marca": "Ford",
+    "Modelo": "Mustang",
+    "Ano": 1969,
+    "Proprietario": "Alexandre de Moraes"
+  },
+  {
+    "Marca": "Honda",
+    "Modelo": "Civic",
+    "Ano": 2024,
+    "Proprietario": "Alexandre de Moraes"
+  }
+]
